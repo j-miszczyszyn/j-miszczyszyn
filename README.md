@@ -14,7 +14,7 @@ I'm dedicated to pushing the boundaries of how geospatial technologies can be us
 I'm on a continuous journey to explore and innovate in the realm of geoinformation for forestry. If you're interested in GIS, drones, LiDAR, or any aspect of environmental technology, let's connect! I'm open to collaborations, discussions, and sharing insights with fellow researchers, practitioners, and enthusiasts in this dynamic field.
 <hr>
 <p align="center">
-  <a href="https://www.ko-fi.com"><img src="https://img.shields.io/badge/-Buy Me A Coffee-555555?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="ko-fi"></a>
+  <a href="https://ko-fi.com/jmiszczyszyn"><img src="https://img.shields.io/badge/-Buy Me A Coffee-555555?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="ko-fi"></a>
   <a href="https://www.linkedin.com/in/jakub-miszczyszyn-bab31b1b8/"><img src="https://img.shields.io/badge/-LinkedIn-555555?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>  
   <a href="https://scholar.google.com/citations?user=OyrD-UYAAAAJ&hl=pl"><img src="https://img.shields.io/badge/-Google Scholar-555555?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"></a>
   <a href="https://www.researchgate.net/profile/Jakub-Miszczyszyn"><img src="https://img.shields.io/badge/-ResearchGate-555555?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate"></a>
